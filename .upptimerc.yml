@@ -46,8 +46,13 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Manjaro
+      href: https://manjaro.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  faviconSvg: https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg
+  favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/240px-Manjaro-logo.svg.png
+
 
 user-agent: upptime
 
