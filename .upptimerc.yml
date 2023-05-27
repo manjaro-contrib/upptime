@@ -19,6 +19,8 @@ sites:
     url: https://mirrors.manjaro.org/repo/state
   - name: Manjaro GitLab
     url: https://gitlab.manjaro.org
+  - name: Manjaro Webmail
+    url: https://webmail.manjaro.org
   - name: Manjaro Sway
     url: https://manjaro-sway.download
     assignees:
