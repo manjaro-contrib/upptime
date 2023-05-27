@@ -19,6 +19,16 @@ sites:
     url: https://mirrors.manjaro.org/repo/state
   - name: Manjaro Sway
     url: https://manjaro-sway.download
+    assignees:
+      - boredland
+  - name: Manjaro Sway Packages
+    url: https://packages.manjaro-sway.download
+    assignees:
+      - boredland
+  - name: Mesa Freeworld
+    url: https://nonfree.eu
+    assignees:
+      - boredland
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
