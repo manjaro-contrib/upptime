@@ -142,5 +142,41 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Manjaro Sway Packages",
+    "url": "https://packages.manjaro-sway.download",
+    "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro-sway.download.ico",
+    "slug": "manjaro-sway-packages",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mesa Freeworld",
+    "url": "https://nonfree.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
+    "slug": "mesa-freeworld",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
+    "dailyMinutesDown": {}
   }
 ]
