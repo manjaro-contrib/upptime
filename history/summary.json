@@ -40,18 +40,20 @@
     "url": "https://software.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2225,
     "timeDay": 2321,
     "timeWeek": 2225,
     "timeMonth": 2225,
     "timeYear": 2225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "Manjaro Wiki",
