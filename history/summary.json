@@ -40,19 +40,19 @@
     "url": "https://software.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2156,
-    "timeDay": 1915,
-    "timeWeek": 2156,
-    "timeMonth": 2156,
-    "timeYear": 2156,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 2239,
+    "timeDay": 2270,
+    "timeWeek": 2239,
+    "timeMonth": 2239,
+    "timeYear": 2239,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 31
     }
   },
   {
