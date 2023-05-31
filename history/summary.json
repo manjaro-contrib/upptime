@@ -4,19 +4,19 @@
     "url": "https://manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1743,
-    "timeDay": 903,
-    "timeWeek": 1743,
-    "timeMonth": 1743,
-    "timeYear": 1743,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 3000,
+    "timeDay": 7611,
+    "timeWeek": 3000,
+    "timeMonth": 3000,
+    "timeYear": 3000,
     "dailyMinutesDown": {
-      "2023-05-31": 1
+      "2023-05-31": 12
     }
   },
   {
