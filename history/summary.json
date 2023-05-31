@@ -4,19 +4,19 @@
     "url": "https://manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
-    "time": 6012,
-    "timeDay": 11565,
-    "timeWeek": 6012,
-    "timeMonth": 6012,
-    "timeYear": 6012,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 5676,
+    "timeDay": 10051,
+    "timeWeek": 5676,
+    "timeMonth": 5676,
+    "timeYear": 5676,
     "dailyMinutesDown": {
-      "2023-05-31": 28
+      "2023-05-31": 37
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://packages.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
-    "status": "down",
-    "uptime": "97.45%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "97.45%",
-    "time": 9987,
-    "timeDay": 20417,
-    "timeWeek": 9987,
-    "timeMonth": 9987,
-    "timeYear": 9987,
+    "status": "up",
+    "uptime": "97.29%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 9440,
+    "timeDay": 18020,
+    "timeWeek": 9440,
+    "timeMonth": 9440,
+    "timeYear": 9440,
     "dailyMinutesDown": {
-      "2023-05-31": 142
+      "2023-05-31": 151
     }
   },
   {
