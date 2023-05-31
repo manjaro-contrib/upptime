@@ -78,19 +78,19 @@
     "url": "https://packages.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 6277,
-    "timeDay": 17112,
-    "timeWeek": 6277,
-    "timeMonth": 6277,
-    "timeYear": 6277,
+    "status": "up",
+    "uptime": "98.94%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
+    "time": 7361,
+    "timeDay": 17764,
+    "timeWeek": 7361,
+    "timeMonth": 7361,
+    "timeYear": 7361,
     "dailyMinutesDown": {
-      "2023-05-31": 24
+      "2023-05-31": 56
     }
   },
   {
