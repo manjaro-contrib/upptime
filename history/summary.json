@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.38%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 2211,
     "timeDay": 2459,
     "timeWeek": 2211,
@@ -78,9 +78,9 @@
     "url": "https://packages.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 834,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-31": 0
+    }
   },
   {
     "name": "Manjaro Repo",
