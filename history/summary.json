@@ -40,19 +40,19 @@
     "url": "https://software.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 2211,
-    "timeDay": 1935,
-    "timeWeek": 2211,
-    "timeMonth": 2211,
-    "timeYear": 2211,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 2263,
+    "timeDay": 2383,
+    "timeWeek": 2263,
+    "timeMonth": 2263,
+    "timeYear": 2263,
     "dailyMinutesDown": {
-      "2023-05-31": 2,
+      "2023-05-31": 11,
       "2023-05-30": 31
     }
   },
@@ -79,9 +79,9 @@
     "url": "https://packages.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 3444,
     "timeMonth": 3444,
     "timeYear": 3444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-31": 0
+    }
   },
   {
     "name": "Manjaro Repo",
@@ -151,9 +153,9 @@
     "url": "https://webmail.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.manjaro.org.ico",
     "slug": "manjaro-webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -162,7 +164,9 @@
     "timeWeek": 875,
     "timeMonth": 875,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-31": 0
+    }
   },
   {
     "name": "Manjaro Sway",
