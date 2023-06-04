@@ -39,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.manjaro.download
   # baseUrl: /your-repo-name
-  logoUrl: https://avatars.githubusercontent.com/u/123946977?s=400&u=5f300ef70fa299af1ed849d9238c1cc8fba07c9f&v=4
+  logoUrl: https://uptime.manjaro-sway.download/favicon.e5c7e6f4fd28.png
   name: Manjaro - Upptime
   introTitle: Manjaro Status
   introMessage: This is a status page for all the Pages in the Manjaro Universe, powered by [Upptime](https://upptime.js.org/) and GitHub Actions
@@ -50,8 +50,8 @@ status-website:
       href: https://manjaro.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  faviconSvg: https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg
-  favicon: https://avatars.githubusercontent.com/u/123946977?s=400&u=5f300ef70fa299af1ed849d9238c1cc8fba07c9f&v=4
+  faviconSvg: https://uptime.manjaro-sway.download/favicon.e5c7e6f4fd28.svg
+  favicon: https://uptime.manjaro-sway.download/favicon.e5c7e6f4fd28.png
 
 
 user-agent: upptime
