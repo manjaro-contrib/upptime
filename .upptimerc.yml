@@ -27,8 +27,6 @@ sites:
     url: https://gitlab.manjaro.org
   - name: Manjaro Webmail
     url: https://webmail.manjaro.org
-    assignees:
-      - codesardine
   - name: Manjaro Sway
     url: https://manjaro-sway.download
     assignees:
