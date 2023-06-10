@@ -5,14 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Manjaro
     url: https://manjaro.org
+    assignees:
+      - codesardine
   - name: Manjaro Forum
     url: https://forum.manjaro.org
   - name: Manjaro Software
     url: https://software.manjaro.org
+    assignees:
+      - codesardine
   - name: Manjaro Wiki
     url: https://wiki.manjaro.org
   - name: Manjaro Packages
     url: https://packages.manjaro.org
+    assignees:
+      - codesardine
   - name: Manjaro Repo
     url: https://repo.manjaro.org
   - name: Manjaro Mirror
@@ -21,11 +27,12 @@ sites:
     url: https://gitlab.manjaro.org
   - name: Manjaro Webmail
     url: https://webmail.manjaro.org
+    assignees:
+      - codesardine
   - name: Manjaro Sway
     url: https://manjaro-sway.download
     assignees:
       - boredland
-      - codesardine
   - name: Manjaro Sway Packages
     url: https://packages.manjaro-sway.download
     assignees:
