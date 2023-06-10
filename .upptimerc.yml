@@ -25,6 +25,7 @@ sites:
     url: https://manjaro-sway.download
     assignees:
       - boredland
+      - codesardine
   - name: Manjaro Sway Packages
     url: https://packages.manjaro-sway.download
     assignees:
