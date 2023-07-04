@@ -13,7 +13,7 @@
     "time": 2329,
     "timeDay": 807,
     "timeWeek": 955,
-    "timeMonth": 1259,
+    "timeMonth": 1142,
     "timeYear": 2329,
     "dailyMinutesDown": {
       "2023-07-03": 24,
@@ -36,7 +36,7 @@
     "time": 979,
     "timeDay": 759,
     "timeWeek": 863,
-    "timeMonth": 968,
+    "timeMonth": 959,
     "timeYear": 979,
     "dailyMinutesDown": {}
   },
@@ -45,19 +45,19 @@
     "url": "https://software.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.22%",
-    "time": 2251,
-    "timeDay": 1407,
-    "timeWeek": 2319,
-    "timeMonth": 2222,
-    "timeYear": 2251,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.10%",
+    "time": 2518,
+    "timeDay": 10777,
+    "timeWeek": 3805,
+    "timeMonth": 2630,
+    "timeYear": 2518,
     "dailyMinutesDown": {
-      "2023-07-04": 0,
+      "2023-07-04": 66,
       "2023-06-30": 19,
       "2023-06-28": 15,
       "2023-06-27": 17,
@@ -85,7 +85,7 @@
     "time": 1283,
     "timeDay": 1118,
     "timeWeek": 1309,
-    "timeMonth": 1261,
+    "timeMonth": 1254,
     "timeYear": 1283,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 3088,
     "timeDay": 595,
     "timeWeek": 900,
-    "timeMonth": 879,
+    "timeMonth": 875,
     "timeYear": 3088,
     "dailyMinutesDown": {
       "2023-07-03": 24,
@@ -126,7 +126,7 @@
     "time": 1008,
     "timeDay": 889,
     "timeWeek": 820,
-    "timeMonth": 1028,
+    "timeMonth": 1040,
     "timeYear": 1008,
     "dailyMinutesDown": {}
   },
@@ -144,7 +144,7 @@
     "time": 453,
     "timeDay": 265,
     "timeWeek": 550,
-    "timeMonth": 503,
+    "timeMonth": 512,
     "timeYear": 453,
     "dailyMinutesDown": {}
   },
@@ -162,7 +162,7 @@
     "time": 1605,
     "timeDay": 820,
     "timeWeek": 1270,
-    "timeMonth": 1295,
+    "timeMonth": 1308,
     "timeYear": 1605,
     "dailyMinutesDown": {}
   },
@@ -180,7 +180,7 @@
     "time": 646,
     "timeDay": 413,
     "timeWeek": 567,
-    "timeMonth": 580,
+    "timeMonth": 584,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2023-05-31": 24
@@ -200,7 +200,7 @@
     "time": 311,
     "timeDay": 168,
     "timeWeek": 315,
-    "timeMonth": 337,
+    "timeMonth": 341,
     "timeYear": 311,
     "dailyMinutesDown": {}
   },
@@ -218,7 +218,7 @@
     "time": 296,
     "timeDay": 368,
     "timeWeek": 232,
-    "timeMonth": 298,
+    "timeMonth": 301,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -236,7 +236,7 @@
     "time": 439,
     "timeDay": 292,
     "timeWeek": 299,
-    "timeMonth": 254,
+    "timeMonth": 251,
     "timeYear": 439,
     "dailyMinutesDown": {}
   }
