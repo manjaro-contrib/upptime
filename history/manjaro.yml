@@ -1,7 +1,7 @@
 url: https://manjaro.org
-status: up
-code: 200
-responseTime: 1003
-lastUpdated: 2023-07-05T23:18:02.945Z
+status: down
+code: 502
+responseTime: 534
+lastUpdated: 2023-07-06T15:37:17.249Z
 startTime: Sat May 27 2023 19:51:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
