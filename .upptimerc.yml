@@ -43,7 +43,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.manjaro.download
+  cname: uptime.manjaro.org
   # baseUrl: /your-repo-name
   logoUrl: https://uptime.manjaro-sway.download/favicon.e5c7e6f4fd28.png
   name: Manjaro - Upptime
