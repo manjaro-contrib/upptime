@@ -165,9 +165,9 @@
     "url": "https://gitlab.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,7 +176,9 @@
     "timeWeek": 1160,
     "timeMonth": 1090,
     "timeYear": 1393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-02": 0
+    }
   },
   {
     "name": "Manjaro Webmail",
@@ -243,12 +245,12 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "93.49%",
+    "uptimeDay": "94.64%",
     "uptimeWeek": "96.80%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.66%",
     "time": 401,
-    "timeDay": 318,
+    "timeDay": 334,
     "timeWeek": 372,
     "timeMonth": 378,
     "timeYear": 401,
