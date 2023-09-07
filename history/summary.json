@@ -13,7 +13,7 @@
     "time": 1691,
     "timeDay": 1348,
     "timeWeek": 1312,
-    "timeMonth": 1196,
+    "timeMonth": 1194,
     "timeYear": 1691,
     "dailyMinutesDown": {
       "2023-08-26": 19,
@@ -119,7 +119,7 @@
     "time": 1903,
     "timeDay": 1031,
     "timeWeek": 1063,
-    "timeMonth": 967,
+    "timeMonth": 985,
     "timeYear": 1903,
     "dailyMinutesDown": {
       "2023-08-16": 47,
@@ -231,15 +231,15 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "87.60%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "98.22%",
     "time": 339,
-    "timeDay": 280,
-    "timeWeek": 310,
+    "timeDay": 250,
+    "timeWeek": 307,
     "timeMonth": 321,
     "timeYear": 339,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2023-08-15": 119,
       "2023-08-14": 121,
       "2023-08-13": 21,
-      "2023-08-12": 66
+      "2023-08-12": 41
     }
   }
 ]
