@@ -30,19 +30,19 @@
     "url": "https://forum.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.manjaro.org.ico",
     "slug": "manjaro-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 823,
-    "timeWeek": 1628,
-    "timeMonth": 1084,
-    "timeYear": 997,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 996,
+    "timeDay": 867,
+    "timeWeek": 1549,
+    "timeMonth": 1079,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 13
     }
   },
   {
@@ -242,7 +242,7 @@
     "uptimeYear": "98.28%",
     "time": 340,
     "timeDay": 363,
-    "timeWeek": 354,
+    "timeWeek": 355,
     "timeMonth": 329,
     "timeYear": 340,
     "dailyMinutesDown": {
