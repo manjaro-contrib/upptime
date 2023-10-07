@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.manjaro.org.ico",
     "slug": "manjaro-wiki",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "91.00%",
-    "uptimeWeek": "98.71%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.88%",
+    "uptimeDay": "84.39%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.88%",
     "time": 1279,
     "timeDay": 635,
     "timeWeek": 1092,
     "timeMonth": 1157,
     "timeYear": 1279,
     "dailyMinutesDown": {
-      "2023-10-06": 130
+      "2023-10-07": 52,
+      "2023-10-06": 173
     }
   },
   {
@@ -239,18 +240,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
     "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "92.73%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "98.49%",
+    "uptime": "98.45%",
+    "uptimeDay": "91.86%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "98.45%",
     "time": 336,
-    "timeDay": 299,
+    "timeDay": 279,
     "timeWeek": 326,
     "timeMonth": 332,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2023-10-06": 119,
+      "2023-10-06": 117,
       "2023-10-05": 105,
       "2023-10-04": 214,
       "2023-10-03": 147,
@@ -278,7 +279,8 @@
       "2023-09-11": 34,
       "2023-09-10": 66,
       "2023-09-09": 34,
-      "2023-09-08": 113
+      "2023-09-08": 187,
+      "2023-09-07": 17
     }
   }
 ]
