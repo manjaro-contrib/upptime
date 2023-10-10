@@ -33,16 +33,18 @@
     "slug": "manjaro-forum",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
+    "time": 983,
     "timeDay": 660,
     "timeWeek": 827,
     "timeMonth": 1073,
-    "timeYear": 984,
-    "dailyMinutesDown": {}
+    "timeYear": 983,
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Manjaro Software",
@@ -97,9 +99,9 @@
     "url": "https://wiki.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.manjaro.org.ico",
     "slug": "manjaro-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.49%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.72%",
@@ -109,6 +111,7 @@
     "timeMonth": 1149,
     "timeYear": 1275,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-10-07": 383,
       "2023-10-06": 173
     }
@@ -240,13 +243,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
     "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "88.58%",
+    "uptime": "98.48%",
+    "uptimeDay": "90.04%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "93.21%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 336,
-    "timeDay": 302,
+    "timeDay": 313,
     "timeWeek": 319,
     "timeMonth": 335,
     "timeYear": 336,
