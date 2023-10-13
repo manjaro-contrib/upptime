@@ -6,7 +6,7 @@
     "slug": "manjaro",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "35.04%",
+    "uptimeDay": "40.25%",
     "uptimeWeek": "88.82%",
     "uptimeMonth": "97.35%",
     "uptimeYear": "99.29%",
@@ -122,7 +122,7 @@
     "slug": "manjaro-packages",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "35.04%",
+    "uptimeDay": "40.24%",
     "uptimeWeek": "88.84%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.27%",
@@ -245,17 +245,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "82.17%",
-    "uptimeWeek": "91.76%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "92.06%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "98.52%",
     "time": 334,
     "timeDay": 268,
-    "timeWeek": 300,
+    "timeWeek": 297,
     "timeMonth": 326,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-10-12": 257,
+      "2023-10-12": 244,
       "2023-10-11": 88,
       "2023-10-10": 151,
       "2023-10-09": 74,
@@ -282,7 +282,7 @@
       "2023-09-18": 125,
       "2023-09-17": 95,
       "2023-09-16": 132,
-      "2023-09-15": 71
+      "2023-09-15": 87
     }
   }
 ]
