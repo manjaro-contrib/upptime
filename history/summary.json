@@ -33,9 +33,9 @@
     "url": "https://forum.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.manjaro.org.ico",
     "slug": "manjaro-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 843,
     "timeMonth": 951,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-25": 0
+    }
   },
   {
     "name": "Manjaro Software",
@@ -246,17 +248,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "86.49%",
-    "uptimeWeek": "90.52%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "98.72%",
     "time": 330,
     "timeDay": 255,
-    "timeWeek": 340,
+    "timeWeek": 341,
     "timeMonth": 309,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-10-25": 133,
+      "2023-10-25": 120,
       "2023-10-24": 120,
       "2023-10-23": 94,
       "2023-10-22": 104,
@@ -278,7 +280,7 @@
       "2023-10-06": 117,
       "2023-10-05": 105,
       "2023-10-04": 214,
-      "2023-10-03": 11
+      "2023-10-03": 33
     }
   }
 ]
