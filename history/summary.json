@@ -35,7 +35,7 @@
     "slug": "manjaro-forum",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "55.62%",
+    "uptimeDay": "57.74%",
     "uptimeWeek": "89.99%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "99.54%",
@@ -171,9 +171,9 @@
     "url": "https://mirrors.manjaro.org/repo/state",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.manjaro.org.ico",
     "slug": "manjaro-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,7 +182,9 @@
     "timeWeek": 530,
     "timeMonth": 635,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-26": 0
+    }
   },
   {
     "name": "Manjaro GitLab",
@@ -254,7 +256,7 @@
     "uptimeMonth": "93.71%",
     "uptimeYear": "98.74%",
     "time": 333,
-    "timeDay": 252,
+    "timeDay": 256,
     "timeWeek": 386,
     "timeMonth": 319,
     "timeYear": 333,
