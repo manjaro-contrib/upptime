@@ -125,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.43%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 1642,
     "timeDay": 650,
     "timeWeek": 800,
@@ -247,15 +247,15 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "89.12%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "91.19%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "98.76%",
     "time": 333,
-    "timeDay": 287,
-    "timeWeek": 379,
+    "timeDay": 291,
+    "timeWeek": 382,
     "timeMonth": 319,
     "timeYear": 333,
     "dailyMinutesDown": {
@@ -280,8 +280,7 @@
       "2023-10-09": 74,
       "2023-10-08": 54,
       "2023-10-07": 70,
-      "2023-10-06": 117,
-      "2023-10-05": 25
+      "2023-10-06": 117
     }
   }
 ]
