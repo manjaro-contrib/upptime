@@ -249,16 +249,16 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "88.39%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "88.37%",
     "uptimeWeek": "90.77%",
-    "uptimeMonth": "93.83%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "98.80%",
     "time": 332,
     "timeDay": 293,
-    "timeWeek": 333,
-    "timeMonth": 316,
+    "timeWeek": 334,
+    "timeMonth": 317,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2023-10-28": 118,
@@ -281,7 +281,7 @@
       "2023-10-11": 88,
       "2023-10-10": 151,
       "2023-10-09": 74,
-      "2023-10-08": 54
+      "2023-10-08": 17
     }
   }
 ]
