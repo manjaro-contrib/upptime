@@ -215,18 +215,19 @@
     "url": "https://manjaro-sway.download",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro-sway.download.ico",
     "slug": "manjaro-sway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 315,
-    "timeDay": 352,
-    "timeWeek": 309,
-    "timeMonth": 334,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 216,
+    "timeWeek": 276,
+    "timeMonth": 326,
+    "timeYear": 314,
     "dailyMinutesDown": {
+      "2023-10-30": 0,
       "2023-07-26": 43
     }
   },
@@ -235,18 +236,20 @@
     "url": "https://packages.manjaro-sway.download",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro-sway.download.ico",
     "slug": "manjaro-sway-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 190,
-    "timeWeek": 249,
-    "timeMonth": 273,
-    "timeYear": 343,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 131,
+    "timeWeek": 224,
+    "timeMonth": 266,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Mesa Freeworld",
@@ -255,17 +258,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "84.74%",
-    "uptimeWeek": "89.77%",
-    "uptimeMonth": "93.91%",
+    "uptimeDay": "89.02%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "98.81%",
     "time": 334,
-    "timeDay": 537,
-    "timeWeek": 354,
+    "timeDay": 293,
+    "timeWeek": 353,
     "timeMonth": 325,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-10-30": 130,
+      "2023-10-30": 117,
       "2023-10-29": 90,
       "2023-10-28": 201,
       "2023-10-27": 137,
@@ -284,7 +287,7 @@
       "2023-10-14": 133,
       "2023-10-13": 39,
       "2023-10-12": 244,
-      "2023-10-11": 25
+      "2023-10-11": 46
     }
   }
 ]
