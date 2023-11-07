@@ -113,7 +113,7 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.76%",
     "time": 1287,
     "timeDay": 1148,
@@ -181,19 +181,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.manjaro.org.ico",
     "slug": "manjaro-mirror",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 519,
     "timeDay": 678,
     "timeWeek": 628,
     "timeMonth": 648,
     "timeYear": 519,
-    "dailyMinutesDown": {
-      "2023-11-07": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Manjaro GitLab",
@@ -261,18 +259,19 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "91.94%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "98.94%",
     "time": 333,
     "timeDay": 259,
     "timeWeek": 339,
     "timeMonth": 327,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2023-11-07": 0,
       "2023-11-06": 116,
       "2023-11-05": 123,
       "2023-11-04": 123,
@@ -292,7 +291,7 @@
       "2023-10-21": 126,
       "2023-10-20": 139,
       "2023-10-19": 130,
-      "2023-10-18": 70
+      "2023-10-18": 53
     }
   }
 ]
