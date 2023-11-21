@@ -60,12 +60,12 @@
     "slug": "manjaro-software",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "97.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.57%",
     "time": 2250,
-    "timeDay": 1692,
+    "timeDay": 2140,
     "timeWeek": 1849,
     "timeMonth": 2295,
     "timeYear": 2250,
@@ -263,14 +263,14 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "91.33%",
+    "uptimeDay": "91.30%",
     "uptimeWeek": "90.06%",
-    "uptimeMonth": "93.84%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "98.95%",
     "time": 336,
-    "timeDay": 306,
+    "timeDay": 309,
     "timeWeek": 374,
     "timeMonth": 349,
     "timeYear": 336,
@@ -296,7 +296,7 @@
       "2023-11-03": 104,
       "2023-11-02": 162,
       "2023-11-01": 128,
-      "2023-10-31": 36
+      "2023-10-31": 17
     }
   }
 ]
