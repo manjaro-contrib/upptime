@@ -8,7 +8,7 @@
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "97.93%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "98.98%",
     "time": 1461,
     "timeDay": 1008,
@@ -141,7 +141,7 @@
     "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "97.93%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "98.96%",
     "time": 1485,
     "timeDay": 975,
@@ -271,17 +271,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "98.95%",
     "time": 341,
     "timeDay": 372,
     "timeWeek": 431,
-    "timeMonth": 370,
+    "timeMonth": 371,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-11-28": 127,
+      "2023-11-28": 115,
       "2023-11-27": 51,
       "2023-11-26": 167,
       "2023-11-25": 211,
@@ -304,7 +304,7 @@
       "2023-11-08": 95,
       "2023-11-07": 90,
       "2023-11-06": 116,
-      "2023-11-05": 41
+      "2023-11-05": 58
     }
   }
 ]
