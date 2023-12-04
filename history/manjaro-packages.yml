@@ -1,7 +1,7 @@
 url: https://packages.manjaro.org
-status: down
-code: 502
-responseTime: 648
-lastUpdated: 2023-12-04T14:28:57.199Z
+status: up
+code: 200
+responseTime: 744
+lastUpdated: 2023-12-04T14:41:19.428Z
 startTime: 2023-05-27T19:51:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
