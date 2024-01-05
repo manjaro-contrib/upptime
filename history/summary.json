@@ -150,9 +150,9 @@
     "slug": "manjaro-packages",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.08%",
     "time": 1361,
     "timeDay": 847,
@@ -160,7 +160,6 @@
     "timeMonth": 836,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2024-01-05": 12,
       "2024-01-02": 24,
       "2023-12-14": 53,
       "2023-12-04": 86,
@@ -226,18 +225,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1174,
     "timeDay": 1029,
     "timeWeek": 909,
     "timeMonth": 942,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2024-01-05": 12,
       "2023-08-02": 108
     }
   },
@@ -287,15 +285,15 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "92.54%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "99.09%",
     "time": 335,
     "timeDay": 249,
-    "timeWeek": 298,
+    "timeWeek": 307,
     "timeMonth": 310,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -327,8 +325,7 @@
       "2023-12-10": 97,
       "2023-12-09": 125,
       "2023-12-08": 61,
-      "2023-12-07": 110,
-      "2023-12-06": 26
+      "2023-12-07": 110
     }
   }
 ]
