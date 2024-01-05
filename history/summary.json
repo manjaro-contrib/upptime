@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 1435,
     "timeDay": 1164,
     "timeWeek": 1036,
@@ -287,9 +287,9 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "89.73%",
-    "uptimeWeek": "92.18%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "90.34%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.07%",
     "time": 335,
     "timeDay": 246,
@@ -297,7 +297,7 @@
     "timeMonth": 310,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-01-04": 148,
+      "2024-01-04": 139,
       "2024-01-03": 88,
       "2024-01-02": 44,
       "2024-01-01": 162,
@@ -325,7 +325,8 @@
       "2023-12-09": 125,
       "2023-12-08": 61,
       "2023-12-07": 110,
-      "2023-12-06": 79
+      "2023-12-06": 79,
+      "2023-12-05": 15
     }
   }
 ]
