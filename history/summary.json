@@ -44,9 +44,9 @@
     "url": "https://forum.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/forum.manjaro.org.ico",
     "slug": "manjaro-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -56,6 +56,7 @@
     "timeMonth": 1518,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2023-10-26": 334,
       "2023-10-25": 675
     }
@@ -292,18 +293,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "93.48%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.21%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.21%",
     "time": 335,
     "timeDay": 188,
-    "timeWeek": 297,
+    "timeWeek": 298,
     "timeMonth": 333,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2024-02-01": 13,
       "2024-01-31": 60,
       "2024-01-30": 113,
       "2024-01-29": 131,
@@ -334,7 +334,8 @@
       "2024-01-04": 139,
       "2024-01-03": 88,
       "2024-01-02": 44,
-      "2024-01-01": 19
+      "2024-01-01": 162,
+      "2023-12-31": 4
     }
   }
 ]
