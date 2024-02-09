@@ -66,9 +66,9 @@
     "url": "https://software.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/software.manjaro.org.ico",
     "slug": "manjaro-software",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.63%",
@@ -78,6 +78,7 @@
     "timeMonth": 1889,
     "timeYear": 2193,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-07": 19,
       "2024-01-28": 15,
       "2024-01-21": 24,
@@ -295,17 +296,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "90.01%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "91.95%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.26%",
     "time": 332,
-    "timeDay": 222,
+    "timeDay": 233,
     "timeWeek": 270,
     "timeMonth": 322,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-02-09": 128,
+      "2024-02-09": 115,
       "2024-02-08": 127,
       "2024-02-07": 100,
       "2024-02-06": 114,
@@ -331,7 +332,8 @@
       "2024-01-17": 39,
       "2024-01-16": 113,
       "2024-01-15": 21,
-      "2024-01-14": 81
+      "2024-01-14": 81,
+      "2024-01-13": 15
     }
   }
 ]
