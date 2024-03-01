@@ -13,7 +13,7 @@
     "time": 1388,
     "timeDay": 1175,
     "timeWeek": 1249,
-    "timeMonth": 1238,
+    "timeMonth": 1235,
     "timeYear": 1388,
     "dailyMinutesDown": {
       "2024-02-29": 45,
@@ -56,7 +56,7 @@
     "time": 1003,
     "timeDay": 1179,
     "timeWeek": 984,
-    "timeMonth": 1578,
+    "timeMonth": 916,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-02-01": 107,
@@ -78,7 +78,7 @@
     "time": 2181,
     "timeDay": 2769,
     "timeWeek": 2266,
-    "timeMonth": 2008,
+    "timeMonth": 1998,
     "timeYear": 2181,
     "dailyMinutesDown": {
       "2024-02-16": 17,
@@ -145,7 +145,7 @@
     "time": 1270,
     "timeDay": 1557,
     "timeWeek": 1450,
-    "timeMonth": 1268,
+    "timeMonth": 1273,
     "timeYear": 1270,
     "dailyMinutesDown": {
       "2023-10-07": 383,
@@ -166,7 +166,7 @@
     "time": 1286,
     "timeDay": 1216,
     "timeWeek": 1095,
-    "timeMonth": 927,
+    "timeMonth": 932,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2024-01-11": 27,
@@ -202,7 +202,7 @@
     "time": 911,
     "timeDay": 973,
     "timeWeek": 942,
-    "timeMonth": 872,
+    "timeMonth": 871,
     "timeYear": 911,
     "dailyMinutesDown": {
       "2023-11-26": 20,
@@ -223,7 +223,7 @@
     "time": 560,
     "timeDay": 749,
     "timeWeek": 418,
-    "timeMonth": 409,
+    "timeMonth": 417,
     "timeYear": 560,
     "dailyMinutesDown": {
       "2023-12-12": 26
@@ -238,12 +238,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1129,
     "timeDay": 1171,
     "timeWeek": 1138,
-    "timeMonth": 982,
+    "timeMonth": 980,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2024-01-30": 17,
@@ -286,7 +286,7 @@
     "time": 344,
     "timeDay": 430,
     "timeWeek": 408,
-    "timeMonth": 419,
+    "timeMonth": 420,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2023-10-30": 35
@@ -299,17 +299,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "94.50%",
-    "uptimeMonth": "94.07%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.35%",
     "time": 323,
     "timeDay": 258,
     "timeWeek": 228,
-    "timeMonth": 242,
+    "timeMonth": 243,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-02-29": 195,
+      "2024-02-29": 182,
       "2024-02-28": 21,
       "2024-02-27": 97,
       "2024-02-26": 58,
@@ -335,7 +335,7 @@
       "2024-02-06": 114,
       "2024-02-05": 216,
       "2024-02-04": 58,
-      "2024-02-03": 16
+      "2024-02-03": 40
     }
   }
 ]
