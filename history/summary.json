@@ -4,15 +4,15 @@
     "url": "https://manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "95.53%",
+    "uptimeDay": "95.51%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.22%",
     "time": 1436,
     "timeDay": 1148,
-    "timeWeek": 2087,
+    "timeWeek": 2124,
     "timeMonth": 1576,
     "timeYear": 1436,
     "dailyMinutesDown": {
@@ -303,17 +303,16 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "92.40%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.35%",
     "time": 322,
-    "timeDay": 282,
-    "timeWeek": 228,
+    "timeDay": 261,
+    "timeWeek": 226,
     "timeMonth": 241,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-03-03": 13,
       "2024-03-02": 127,
       "2024-03-01": 240,
       "2024-02-29": 182,
@@ -339,7 +338,7 @@
       "2024-02-09": 143,
       "2024-02-08": 127,
       "2024-02-07": 100,
-      "2024-02-06": 77
+      "2024-02-06": 93
     }
   }
 ]
