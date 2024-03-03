@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.22%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.22%",
     "time": 1435,
     "timeDay": 1155,
     "timeWeek": 2087,
     "timeMonth": 1569,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2024-03-03": 67,
+      "2024-03-03": 54,
       "2024-03-02": 28,
       "2024-03-01": 22,
       "2024-02-29": 45,
@@ -301,11 +301,11 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "98.64%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "92.40%",
-    "uptimeMonth": "93.98%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.35%",
     "time": 322,
     "timeDay": 261,
@@ -313,6 +313,7 @@
     "timeMonth": 241,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2024-03-02": 127,
       "2024-03-01": 240,
       "2024-02-29": 182,
@@ -338,7 +339,7 @@
       "2024-02-09": 143,
       "2024-02-08": 127,
       "2024-02-07": 100,
-      "2024-02-06": 93
+      "2024-02-06": 77
     }
   }
 ]
