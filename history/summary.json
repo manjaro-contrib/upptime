@@ -6,7 +6,7 @@
     "slug": "manjaro",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "93.66%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.22%",
@@ -167,12 +167,12 @@
     "slug": "manjaro-packages",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "94.45%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.28%",
     "time": 1267,
-    "timeDay": 1125,
+    "timeDay": 863,
     "timeWeek": 893,
     "timeMonth": 916,
     "timeYear": 1267,
@@ -309,9 +309,9 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.37%",
     "time": 318,
     "timeDay": 224,
@@ -319,7 +319,7 @@
     "timeMonth": 233,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-03-15": 134,
+      "2024-03-15": 122,
       "2024-03-14": 55,
       "2024-03-13": 25,
       "2024-03-12": 104,
@@ -347,7 +347,7 @@
       "2024-02-19": 229,
       "2024-02-18": 109,
       "2024-02-17": 16,
-      "2024-02-16": 59
+      "2024-02-16": 75
     }
   }
 ]
