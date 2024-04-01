@@ -226,11 +226,11 @@
     "url": "https://mirrors.manjaro.org/repo/state",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.manjaro.org.ico",
     "slug": "manjaro-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 558,
     "timeDay": 964,
@@ -238,7 +238,7 @@
     "timeMonth": 544,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2024-04-01": 39,
+      "2024-04-01": 27,
       "2023-12-12": 26
     }
   },
