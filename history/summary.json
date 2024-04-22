@@ -12,7 +12,7 @@
     "uptimeYear": "99.29%",
     "time": 1445,
     "timeDay": 1051,
-    "timeWeek": 1145,
+    "timeWeek": 1162,
     "timeMonth": 1096,
     "timeYear": 1445,
     "dailyMinutesDown": {
@@ -64,7 +64,7 @@
     "uptimeYear": "99.76%",
     "time": 995,
     "timeDay": 1116,
-    "timeWeek": 892,
+    "timeWeek": 910,
     "timeMonth": 823,
     "timeYear": 995,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
     "uptimeYear": "99.68%",
     "time": 2144,
     "timeDay": 2215,
-    "timeWeek": 1799,
+    "timeWeek": 1861,
     "timeMonth": 1879,
     "timeYear": 2144,
     "dailyMinutesDown": {
@@ -160,7 +160,7 @@
     "uptimeYear": "99.88%",
     "time": 1258,
     "timeDay": 1369,
-    "timeWeek": 1215,
+    "timeWeek": 1254,
     "timeMonth": 1180,
     "timeYear": 1258,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
     "uptimeYear": "99.35%",
     "time": 1227,
     "timeDay": 1031,
-    "timeWeek": 964,
+    "timeWeek": 958,
     "timeMonth": 870,
     "timeYear": 1227,
     "dailyMinutesDown": {
@@ -220,7 +220,7 @@
     "uptimeYear": "99.99%",
     "time": 895,
     "timeDay": 975,
-    "timeWeek": 891,
+    "timeWeek": 936,
     "timeMonth": 804,
     "timeYear": 895,
     "dailyMinutesDown": {
@@ -241,7 +241,7 @@
     "uptimeYear": "99.98%",
     "time": 565,
     "timeDay": 751,
-    "timeWeek": 662,
+    "timeWeek": 664,
     "timeMonth": 678,
     "timeYear": 565,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
     "uptimeYear": "99.97%",
     "time": 1101,
     "timeDay": 1141,
-    "timeWeek": 1036,
+    "timeWeek": 1081,
     "timeMonth": 923,
     "timeYear": 1101,
     "dailyMinutesDown": {
@@ -284,7 +284,7 @@
     "uptimeYear": "99.98%",
     "time": 316,
     "timeDay": 96,
-    "timeWeek": 303,
+    "timeWeek": 296,
     "timeMonth": 283,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -305,7 +305,7 @@
     "uptimeYear": "99.99%",
     "time": 355,
     "timeDay": 115,
-    "timeWeek": 340,
+    "timeWeek": 355,
     "timeMonth": 335,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -319,17 +319,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "93.06%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "99.46%",
     "time": 309,
     "timeDay": 240,
-    "timeWeek": 252,
+    "timeWeek": 250,
     "timeMonth": 255,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-04-21": 86,
+      "2024-04-21": 74,
       "2024-04-19": 39,
       "2024-04-18": 136,
       "2024-04-17": 144,
@@ -359,7 +359,7 @@
       "2024-03-23": 28,
       "2024-03-22": 35,
       "2024-03-21": 49,
-      "2024-03-20": 87
+      "2024-03-20": 102
     }
   }
 ]
