@@ -13,7 +13,7 @@
     "time": 1425,
     "timeDay": 910,
     "timeWeek": 1082,
-    "timeMonth": 1105,
+    "timeMonth": 1109,
     "timeYear": 1425,
     "dailyMinutesDown": {
       "2024-04-24": 50,
@@ -66,7 +66,7 @@
     "time": 985,
     "timeDay": 710,
     "timeWeek": 877,
-    "timeMonth": 861,
+    "timeMonth": 864,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2024-04-23": 32,
@@ -90,7 +90,7 @@
     "time": 1253,
     "timeDay": 943,
     "timeWeek": 1135,
-    "timeMonth": 1184,
+    "timeMonth": 1191,
     "timeYear": 1253,
     "dailyMinutesDown": {
       "2023-10-07": 383,
@@ -111,7 +111,7 @@
     "time": 1205,
     "timeDay": 596,
     "timeWeek": 923,
-    "timeMonth": 874,
+    "timeMonth": 869,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2024-04-05": 41,
@@ -150,7 +150,7 @@
     "time": 898,
     "timeDay": 730,
     "timeWeek": 1232,
-    "timeMonth": 930,
+    "timeMonth": 942,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2023-11-26": 20,
@@ -171,7 +171,7 @@
     "time": 574,
     "timeDay": 749,
     "timeWeek": 793,
-    "timeMonth": 687,
+    "timeMonth": 688,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2024-04-01": 45,
@@ -192,7 +192,7 @@
     "time": 1100,
     "timeDay": 746,
     "timeWeek": 982,
-    "timeMonth": 1064,
+    "timeMonth": 1075,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2024-01-30": 17,
@@ -214,7 +214,7 @@
     "time": 328,
     "timeDay": 219,
     "timeWeek": 948,
-    "timeMonth": 456,
+    "timeMonth": 460,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2023-10-30": 35,
@@ -235,7 +235,7 @@
     "time": 351,
     "timeDay": 359,
     "timeWeek": 301,
-    "timeMonth": 306,
+    "timeMonth": 308,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2023-10-30": 35
@@ -248,9 +248,9 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "89.83%",
-    "uptimeWeek": "91.71%",
-    "uptimeMonth": "93.94%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "99.48%",
     "time": 305,
     "timeDay": 535,
@@ -258,7 +258,7 @@
     "timeMonth": 249,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-05-14": 147,
+      "2024-05-14": 134,
       "2024-05-13": 61,
       "2024-05-12": 136,
       "2024-05-11": 93,
@@ -282,7 +282,8 @@
       "2024-04-23": 94,
       "2024-04-22": 136,
       "2024-04-21": 74,
-      "2024-04-19": 39
+      "2024-04-19": 39,
+      "2024-04-18": 18
     }
   }
 ]
