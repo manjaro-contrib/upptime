@@ -248,17 +248,17 @@
     "slug": "mesa-freeworld",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "91.79%",
-    "uptimeMonth": "93.91%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.48%",
     "time": 305,
-    "timeDay": 266,
-    "timeWeek": 284,
-    "timeMonth": 251,
+    "timeDay": 253,
+    "timeWeek": 285,
+    "timeMonth": 250,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-05-15": 85,
+      "2024-05-15": 71,
       "2024-05-14": 134,
       "2024-05-13": 61,
       "2024-05-12": 136,
@@ -282,7 +282,7 @@
       "2024-04-24": 45,
       "2024-04-23": 94,
       "2024-04-22": 136,
-      "2024-04-21": 50
+      "2024-04-21": 74
     }
   }
 ]
