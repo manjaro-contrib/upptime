@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 1069,
     "timeMonth": 1131,
-    "timeYear": 1419,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2024-05-25": 188,
       "2024-04-24": 50,
@@ -68,7 +68,7 @@
     "timeDay": 0,
     "timeWeek": 956,
     "timeMonth": 917,
-    "timeYear": 985,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-05-17": 94,
       "2024-04-23": 32,
@@ -93,7 +93,7 @@
     "timeDay": 0,
     "timeWeek": 1355,
     "timeMonth": 1240,
-    "timeYear": 1255,
+    "timeYear": 1253,
     "dailyMinutesDown": {
       "2023-10-07": 383,
       "2023-10-06": 173
@@ -114,7 +114,7 @@
     "timeDay": 0,
     "timeWeek": 804,
     "timeMonth": 849,
-    "timeYear": 1195,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2024-05-25": 187,
       "2024-04-05": 41,
@@ -154,7 +154,7 @@
     "timeDay": 0,
     "timeWeek": 930,
     "timeMonth": 952,
-    "timeYear": 898,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2023-11-26": 20,
       "2023-07-10": 17
@@ -175,7 +175,7 @@
     "timeDay": 0,
     "timeWeek": 633,
     "timeMonth": 692,
-    "timeYear": 575,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2024-04-01": 45,
       "2023-12-12": 26
@@ -196,7 +196,7 @@
     "timeDay": 0,
     "timeWeek": 977,
     "timeMonth": 1021,
-    "timeYear": 1098,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2024-01-30": 17,
       "2024-01-13": 21,
@@ -218,7 +218,7 @@
     "timeDay": 0,
     "timeWeek": 307,
     "timeMonth": 472,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2023-10-30": 35,
       "2023-07-26": 43
@@ -239,7 +239,7 @@
     "timeDay": 0,
     "timeWeek": 183,
     "timeMonth": 277,
-    "timeYear": 348,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2023-10-30": 35
     }
@@ -249,15 +249,15 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "60.29%",
+    "uptimeDay": "64.84%",
     "uptimeWeek": "89.05%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "99.42%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "99.43%",
     "time": 302,
-    "timeDay": 266,
-    "timeWeek": 234,
+    "timeDay": 242,
+    "timeWeek": 233,
     "timeMonth": 238,
     "timeYear": 302,
     "dailyMinutesDown": {
@@ -285,7 +285,7 @@
       "2024-05-06": 150,
       "2024-05-05": 37,
       "2024-05-04": 109,
-      "2024-05-03": 73
+      "2024-05-03": 48
     }
   }
 ]
