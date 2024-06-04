@@ -6,7 +6,7 @@
     "slug": "manjaro",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "90.14%",
+    "uptimeDay": "96.09%",
     "uptimeWeek": "92.31%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.17%",
@@ -14,7 +14,7 @@
     "timeDay": 1165,
     "timeWeek": 1092,
     "timeMonth": 1113,
-    "timeYear": 1282,
+    "timeYear": 1272,
     "dailyMinutesDown": {
       "2024-06-03": 557,
       "2024-06-02": 218,
@@ -69,7 +69,7 @@
     "timeDay": 995,
     "timeWeek": 880,
     "timeMonth": 927,
-    "timeYear": 982,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2024-05-17": 94,
       "2024-04-23": 32,
@@ -107,7 +107,7 @@
     "slug": "manjaro-packages",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "90.14%",
+    "uptimeDay": "96.09%",
     "uptimeWeek": "92.33%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.26%",
@@ -156,7 +156,7 @@
     "timeDay": 858,
     "timeWeek": 819,
     "timeMonth": 930,
-    "timeYear": 893,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2023-11-26": 20,
       "2023-07-10": 17
@@ -177,7 +177,7 @@
     "timeDay": 764,
     "timeWeek": 689,
     "timeMonth": 697,
-    "timeYear": 586,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-04-01": 45,
       "2023-12-12": 26
@@ -221,7 +221,7 @@
     "timeDay": 308,
     "timeWeek": 294,
     "timeMonth": 466,
-    "timeYear": 331,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2023-10-30": 35,
       "2023-07-26": 43
@@ -242,7 +242,7 @@
     "timeDay": 255,
     "timeWeek": 537,
     "timeMonth": 341,
-    "timeYear": 354,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2023-10-30": 35
     }
@@ -252,11 +252,11 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "91.81%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "99.42%",
     "time": 302,
     "timeDay": 268,
@@ -264,7 +264,7 @@
     "timeMonth": 259,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-06-04": 40,
+      "2024-06-04": 28,
       "2024-06-03": 90,
       "2024-06-02": 62,
       "2024-06-01": 120,
