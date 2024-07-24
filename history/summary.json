@@ -14,7 +14,7 @@
     "timeDay": 812,
     "timeWeek": 959,
     "timeMonth": 1325,
-    "timeYear": 1285,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2024-07-11": 146,
       "2024-06-29": 22,
@@ -71,7 +71,7 @@
     "timeDay": 766,
     "timeWeek": 945,
     "timeMonth": 895,
-    "timeYear": 976,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2024-07-18": 22,
       "2024-05-17": 94,
@@ -97,7 +97,7 @@
     "timeDay": 1082,
     "timeWeek": 1159,
     "timeMonth": 1181,
-    "timeYear": 1245,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2023-10-07": 383,
       "2023-10-06": 173
@@ -161,7 +161,7 @@
     "timeDay": 703,
     "timeWeek": 900,
     "timeMonth": 801,
-    "timeYear": 869,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2023-11-26": 20
     }
@@ -181,7 +181,7 @@
     "timeDay": 588,
     "timeWeek": 601,
     "timeMonth": 631,
-    "timeYear": 642,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2024-04-01": 45,
       "2023-12-12": 26
@@ -246,7 +246,7 @@
     "timeDay": 157,
     "timeWeek": 309,
     "timeMonth": 294,
-    "timeYear": 358,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2023-10-30": 35
     }
@@ -256,15 +256,15 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "92.33%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "92.58%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "99.49%",
     "time": 300,
-    "timeDay": 301,
-    "timeWeek": 329,
+    "timeDay": 323,
+    "timeWeek": 332,
     "timeMonth": 293,
     "timeYear": 298,
     "dailyMinutesDown": {
@@ -295,8 +295,7 @@
       "2024-06-30": 84,
       "2024-06-29": 142,
       "2024-06-28": 68,
-      "2024-06-27": 97,
-      "2024-06-26": 31
+      "2024-06-27": 97
     }
   }
 ]
