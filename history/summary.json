@@ -88,7 +88,7 @@
     "slug": "manjaro-wiki",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "90.21%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.87%",
@@ -253,18 +253,19 @@
     "url": "https://nonfree.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nonfree.eu.ico",
     "slug": "mesa-freeworld",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "93.84%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "93.82%",
     "uptimeWeek": "90.64%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.49%",
     "time": 303,
     "timeDay": 686,
     "timeWeek": 442,
     "timeMonth": 333,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2024-08-02": 0,
       "2024-08-01": 89,
       "2024-07-31": 158,
       "2024-07-30": 240,
@@ -287,7 +288,7 @@
       "2024-07-13": 118,
       "2024-07-12": 205,
       "2024-07-11": 113,
-      "2024-07-10": 79
+      "2024-07-10": 56
     }
   }
 ]
