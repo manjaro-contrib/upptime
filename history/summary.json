@@ -170,9 +170,9 @@
     "url": "https://mirrors.manjaro.org/repo/state",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.manjaro.org.ico",
     "slug": "manjaro-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -182,6 +182,7 @@
     "timeMonth": 1045,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-08-17": 21,
       "2024-04-01": 45,
       "2023-12-12": 26
@@ -257,7 +258,7 @@
     "status": "up",
     "uptime": "98.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.37%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "74.62%",
     "uptimeYear": "97.52%",
     "time": 298,
