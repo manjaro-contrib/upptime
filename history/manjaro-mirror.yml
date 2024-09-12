@@ -1,7 +1,7 @@
 url: https://mirrors.manjaro.org/repo/state
-status: up
-code: 200
-responseTime: 327
-lastUpdated: 2024-09-12T14:49:50.184Z
+status: down
+code: 502
+responseTime: 10628
+lastUpdated: 2024-09-12T17:21:50.083Z
 startTime: 2023-05-27T19:51:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
