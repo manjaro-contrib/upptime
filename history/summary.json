@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 1192,
-    "timeDay": 868,
-    "timeWeek": 817,
-    "timeMonth": 891,
-    "timeYear": 1135,
+    "time": 1191,
+    "timeDay": 785,
+    "timeWeek": 822,
+    "timeMonth": 893,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2024-07-11": 146,
       "2024-06-29": 22,
@@ -29,8 +29,7 @@
       "2024-04-17": 25,
       "2024-04-15": 25,
       "2024-04-05": 41,
-      "2024-03-15": 75,
-      "2024-03-14": 29
+      "2024-03-15": 75
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 963,
-    "timeDay": 928,
-    "timeWeek": 799,
-    "timeMonth": 817,
+    "timeDay": 706,
+    "timeWeek": 788,
+    "timeMonth": 810,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2024-08-28": 22,
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 1248,
-    "timeDay": 1290,
-    "timeWeek": 1183,
-    "timeMonth": 1180,
+    "timeDay": 1101,
+    "timeWeek": 1193,
+    "timeMonth": 1173,
     "timeYear": 1252,
     "dailyMinutesDown": {
       "2025-01-02": 20,
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.60%",
-    "time": 1006,
-    "timeDay": 1227,
-    "timeWeek": 1115,
-    "timeMonth": 1116,
-    "timeYear": 1045,
+    "time": 1008,
+    "timeDay": 1232,
+    "timeWeek": 1148,
+    "timeMonth": 1123,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2025-03-03": 27,
       "2024-07-11": 297,
@@ -108,8 +107,7 @@
       "2024-06-02": 217,
       "2024-05-25": 187,
       "2024-04-05": 41,
-      "2024-03-15": 76,
-      "2024-03-14": 4
+      "2024-03-15": 76
     }
   },
   {
@@ -124,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 844,
-    "timeDay": 932,
-    "timeWeek": 776,
-    "timeMonth": 785,
+    "timeDay": 686,
+    "timeWeek": 779,
+    "timeMonth": 786,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2024-09-12": 80
@@ -144,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 767,
-    "timeDay": 526,
-    "timeWeek": 422,
-    "timeMonth": 553,
-    "timeYear": 818,
+    "timeDay": 817,
+    "timeWeek": 470,
+    "timeMonth": 557,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2024-10-17": 23,
       "2024-09-12": 53,
@@ -163,15 +161,15 @@
     "slug": "manjaro-git-lab",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "75.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.64%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.85%",
     "time": 1035,
-    "timeDay": 3594,
-    "timeWeek": 1951,
-    "timeMonth": 1463,
-    "timeYear": 1053,
+    "timeDay": 1016,
+    "timeWeek": 1958,
+    "timeMonth": 1470,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-03-12": 358,
       "2025-03-11": 36,
@@ -194,10 +192,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 553,
-    "timeWeek": 380,
-    "timeMonth": 363,
-    "timeYear": 351,
+    "timeDay": 678,
+    "timeWeek": 423,
+    "timeMonth": 383,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   },
   {
@@ -211,10 +209,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 152,
-    "timeWeek": 329,
-    "timeMonth": 378,
+    "time": 338,
+    "timeDay": 403,
+    "timeWeek": 328,
+    "timeMonth": 387,
     "timeYear": 333,
     "dailyMinutesDown": {}
   }
