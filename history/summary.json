@@ -4,9 +4,9 @@
     "url": "https://manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 938,
     "timeMonth": 965,
     "timeYear": 978,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "Manjaro Forum",
@@ -70,18 +72,19 @@
     "url": "https://packages.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro.org.ico",
     "slug": "manjaro-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.65%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "99.42%",
-    "time": 1136,
+    "time": 1137,
     "timeDay": 1110,
     "timeWeek": 1227,
     "timeMonth": 1244,
     "timeYear": 1187,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-31": 271,
       "2025-07-30": 761,
       "2025-03-28": 339,
