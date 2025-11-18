@@ -4,18 +4,19 @@
     "url": "https://manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro.org.ico",
     "slug": "manjaro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 988,
-    "timeDay": 617,
-    "timeWeek": 850,
-    "timeMonth": 868,
-    "timeYear": 949,
+    "time": 987,
+    "timeDay": 638,
+    "timeWeek": 826,
+    "timeMonth": 862,
+    "timeYear": 948,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-09-30": 741,
       "2025-09-29": 870,
       "2025-08-28": 248,
@@ -173,9 +174,9 @@
     "slug": "manjaro-sway",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 381,
@@ -183,7 +184,7 @@
     "timeMonth": 346,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -191,17 +192,19 @@
     "url": "https://packages.manjaro-sway.download",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro-sway.download.ico",
     "slug": "manjaro-sway-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 324,
-    "timeWeek": 304,
-    "timeMonth": 298,
+    "timeDay": 283,
+    "timeWeek": 296,
+    "timeMonth": 296,
     "timeYear": 363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
