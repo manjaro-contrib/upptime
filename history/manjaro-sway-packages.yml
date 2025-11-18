@@ -1,7 +1,7 @@
 url: https://packages.manjaro-sway.download
-status: down
-code: 500
-responseTime: 241
-lastUpdated: 2025-11-18T11:57:45.448Z
+status: up
+code: 200
+responseTime: 375
+lastUpdated: 2025-11-18T12:57:37.276Z
 startTime: 2023-05-27T20:23:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
