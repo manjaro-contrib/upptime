@@ -171,18 +171,20 @@
     "url": "https://manjaro-sway.download",
     "icon": "https://icons.duckduckgo.com/ip3/manjaro-sway.download.ico",
     "slug": "manjaro-sway",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 332,
-    "timeWeek": 239,
-    "timeMonth": 344,
+    "timeDay": 381,
+    "timeWeek": 263,
+    "timeMonth": 346,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Manjaro Sway Packages",
