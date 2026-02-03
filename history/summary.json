@@ -56,13 +56,13 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.79%",
+    "uptimeWeek": "86.86%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "98.84%",
     "time": 1699,
     "timeDay": 1289,
-    "timeWeek": 3352,
-    "timeMonth": 5035,
+    "timeWeek": 3573,
+    "timeMonth": 4885,
     "timeYear": 1872,
     "dailyMinutesDown": {
       "2026-01-29": 132,
@@ -213,9 +213,9 @@
     "url": "https://packages.manjaro-sway.download",
     "icon": "https://icons.duckduckgo.com/ip3/packages.manjaro-sway.download.ico",
     "slug": "manjaro-sway-packages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -225,6 +225,7 @@
     "timeMonth": 322,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2026-02-03": 0,
       "2025-11-18": 125
     }
   }
