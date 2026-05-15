@@ -1,7 +1,7 @@
 url: https://wiki.manjaro.org
-status: up
-code: 200
-responseTime: 17560
-lastUpdated: 2026-05-15T21:56:48.786Z
+status: down
+code: 500
+responseTime: 8594
+lastUpdated: 2026-05-15T23:57:35.518Z
 startTime: 2023-05-27T19:51:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
