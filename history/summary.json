@@ -59,10 +59,10 @@
     "slug": "manjaro-wiki",
     "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "97.30%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "97.29%",
     "time": 2593,
     "timeDay": 1298,
     "timeWeek": 1364,
@@ -136,7 +136,7 @@
       "2026-05-16": 904,
       "2026-05-17": 672,
       "2026-05-21": 219,
-      "2026-06-20": 0
+      "2026-06-20": 86
     }
   },
   {
@@ -217,7 +217,7 @@
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.09%",
-    "uptimeMonth": "87.69%",
+    "uptimeMonth": "87.89%",
     "uptimeYear": "97.75%",
     "time": 2134,
     "timeDay": 1577,
