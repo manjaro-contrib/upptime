@@ -210,17 +210,17 @@
     "url": "https://gitlab.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "95.09%",
-    "uptimeYear": "97.48%",
-    "time": 2357,
-    "timeDay": 1518,
-    "timeWeek": 8374,
-    "timeMonth": 6217,
-    "timeYear": 2863,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "80.97%",
+    "uptimeWeek": "89.74%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "97.47%",
+    "time": 2400,
+    "timeDay": 5839,
+    "timeWeek": 9282,
+    "timeMonth": 6642,
+    "timeYear": 2920,
     "dailyMinutesDown": {
       "2026-03-02": 95,
       "2026-03-23": 444,
@@ -274,7 +274,7 @@
       "2026-07-14": 262,
       "2026-07-15": 195,
       "2026-07-16": 205,
-      "2026-07-17": 0
+      "2026-07-17": 68
     }
   },
   {
