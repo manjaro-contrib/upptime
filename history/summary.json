@@ -56,17 +56,17 @@
     "url": "https://wiki.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.manjaro.org.ico",
     "slug": "manjaro-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.95%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "97.05%",
-    "time": 2468,
-    "timeDay": 1417,
-    "timeWeek": 1233,
-    "timeMonth": 2015,
-    "timeYear": 2917,
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "87.03%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "97.03%",
+    "time": 2469,
+    "timeDay": 1253,
+    "timeWeek": 1225,
+    "timeMonth": 1997,
+    "timeYear": 2913,
     "dailyMinutesDown": {
       "2026-01-26": 96,
       "2026-01-28": 659,
@@ -134,7 +134,7 @@
       "2026-07-13": 219,
       "2026-07-15": 385,
       "2026-07-16": 346,
-      "2026-07-18": 0
+      "2026-07-18": 93
     }
   },
   {
