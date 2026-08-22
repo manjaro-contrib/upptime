@@ -1,7 +1,7 @@
 url: https://gitlab.manjaro.org
-status: down
-code: 502
-responseTime: 13111
-lastUpdated: 2026-08-22T04:15:23.584Z
+status: up
+code: 200
+responseTime: 1051
+lastUpdated: 2026-08-22T04:47:51.417Z
 startTime: 2023-05-27T20:36:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
