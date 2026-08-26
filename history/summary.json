@@ -13,10 +13,9 @@
     "time": 921,
     "timeDay": 1012,
     "timeWeek": 900,
-    "timeMonth": 870,
+    "timeMonth": 859,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2025-08-26": 43,
       "2025-08-28": 248,
       "2025-09-29": 870,
       "2025-09-30": 741,
@@ -43,7 +42,7 @@
     "time": 917,
     "timeDay": 1228,
     "timeWeek": 975,
-    "timeMonth": 940,
+    "timeMonth": 937,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2025-12-10": 573,
@@ -63,7 +62,7 @@
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.97%",
-    "uptimeMonth": "91.25%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "96.51%",
     "time": 2847,
     "timeDay": 1636,
@@ -160,10 +159,9 @@
     "time": 1258,
     "timeDay": 1102,
     "timeWeek": 1203,
-    "timeMonth": 1167,
+    "timeMonth": 1157,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-08-26": 43,
       "2025-08-28": 248,
       "2025-09-29": 881,
       "2025-09-30": 741,
@@ -188,7 +186,7 @@
     "time": 782,
     "timeDay": 757,
     "timeWeek": 694,
-    "timeMonth": 714,
+    "timeMonth": 709,
     "timeYear": 767,
     "dailyMinutesDown": {}
   },
@@ -206,7 +204,7 @@
     "time": 536,
     "timeDay": 511,
     "timeWeek": 684,
-    "timeMonth": 553,
+    "timeMonth": 552,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
@@ -217,14 +215,14 @@
     "slug": "manjaro-git-lab",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "86.05%",
-    "uptimeWeek": "88.20%",
-    "uptimeMonth": "90.09%",
-    "uptimeYear": "96.75%",
+    "uptimeDay": "80.27%",
+    "uptimeWeek": "87.38%",
+    "uptimeMonth": "89.90%",
+    "uptimeYear": "96.74%",
     "time": 4303,
     "timeDay": 4359,
     "timeWeek": 13940,
-    "timeMonth": 14686,
+    "timeMonth": 14529,
     "timeYear": 5052,
     "dailyMinutesDown": {
       "2026-04-09": 58,
@@ -295,7 +293,8 @@
       "2026-08-22": 183,
       "2026-08-23": 151,
       "2026-08-24": 231,
-      "2026-08-25": 200
+      "2026-08-25": 216,
+      "2026-08-26": 68
     }
   },
   {
@@ -312,7 +311,7 @@
     "time": 316,
     "timeDay": 168,
     "timeWeek": 196,
-    "timeMonth": 206,
+    "timeMonth": 204,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2025-11-18": 137,
@@ -333,7 +332,7 @@
     "time": 324,
     "timeDay": 205,
     "timeWeek": 360,
-    "timeMonth": 294,
+    "timeMonth": 296,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-11-18": 125,
