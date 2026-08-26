@@ -58,16 +58,16 @@
     "url": "https://wiki.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.manjaro.org.ico",
     "slug": "manjaro-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "87.87%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "96.52%",
-    "time": 2850,
-    "timeDay": 1636,
-    "timeWeek": 6385,
-    "timeMonth": 6013,
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "96.51%",
+    "time": 2851,
+    "timeDay": 1565,
+    "timeWeek": 5896,
+    "timeMonth": 5911,
     "timeYear": 3318,
     "dailyMinutesDown": {
       "2026-02-11": 622,
@@ -143,7 +143,7 @@
       "2026-08-18": 134,
       "2026-08-19": 667,
       "2026-08-20": 546,
-      "2026-08-26": 10
+      "2026-08-26": 47
     }
   },
   {
@@ -214,17 +214,17 @@
     "url": "https://gitlab.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "73.53%",
-    "uptimeWeek": "87.33%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "96.76%",
-    "time": 4480,
-    "timeDay": 19979,
-    "timeWeek": 16450,
-    "timeMonth": 15383,
-    "timeYear": 5243,
+    "uptimeDay": "70.94%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "96.75%",
+    "time": 4491,
+    "timeDay": 18237,
+    "timeWeek": 16129,
+    "timeMonth": 15282,
+    "timeYear": 5248,
     "dailyMinutesDown": {
       "2026-04-11": 400,
       "2026-04-10": 10,
@@ -294,7 +294,7 @@
       "2026-08-23": 151,
       "2026-08-24": 231,
       "2026-08-25": 216,
-      "2026-08-26": 165
+      "2026-08-26": 203
     }
   },
   {
