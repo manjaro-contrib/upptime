@@ -12,7 +12,7 @@
     "uptimeYear": "99.48%",
     "time": 917,
     "timeDay": 967,
-    "timeWeek": 865,
+    "timeWeek": 880,
     "timeMonth": 857,
     "timeYear": 893,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
     "uptimeYear": "99.85%",
     "time": 915,
     "timeDay": 755,
-    "timeWeek": 961,
+    "timeWeek": 953,
     "timeMonth": 968,
     "timeYear": 916,
     "dailyMinutesDown": {
@@ -65,7 +65,7 @@
     "uptimeYear": "96.53%",
     "time": 2859,
     "timeDay": 1196,
-    "timeWeek": 1545,
+    "timeWeek": 1574,
     "timeMonth": 5022,
     "timeYear": 3323,
     "dailyMinutesDown": {
@@ -157,7 +157,7 @@
     "uptimeYear": "99.51%",
     "time": 1239,
     "timeDay": 995,
-    "timeWeek": 1338,
+    "timeWeek": 1376,
     "timeMonth": 1194,
     "timeYear": 1246,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "100.00%",
     "time": 779,
     "timeDay": 522,
-    "timeWeek": 713,
+    "timeWeek": 720,
     "timeMonth": 698,
     "timeYear": 753,
     "dailyMinutesDown": {}
@@ -201,7 +201,7 @@
     "uptimeYear": "100.00%",
     "time": 533,
     "timeDay": 341,
-    "timeWeek": 464,
+    "timeWeek": 469,
     "timeMonth": 512,
     "timeYear": 490,
     "dailyMinutesDown": {}
@@ -212,18 +212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "75.95%",
-    "uptimeWeek": "76.64%",
-    "uptimeMonth": "86.19%",
-    "uptimeYear": "96.39%",
+    "uptime": "98.89%",
+    "uptimeDay": "76.47%",
+    "uptimeWeek": "76.71%",
+    "uptimeMonth": "86.21%",
+    "uptimeYear": "96.35%",
     "time": 4855,
     "timeDay": 46819,
-    "timeWeek": 31406,
+    "timeWeek": 31809,
     "timeMonth": 20333,
     "timeYear": 6288,
     "dailyMinutesDown": {
-      "2026-04-28": 184,
+      "2026-04-28": 356,
+      "2026-04-27": 66,
       "2026-04-29": 308,
       "2026-04-30": 303,
       "2026-05-01": 64,
@@ -289,8 +290,7 @@
       "2026-09-01": 279,
       "2026-09-02": 656,
       "2026-09-03": 701,
-      "2026-09-05": 339,
-      "2026-09-06": 8
+      "2026-09-05": 339
     }
   },
   {
@@ -306,7 +306,7 @@
     "uptimeYear": "99.97%",
     "time": 311,
     "timeDay": 71,
-    "timeWeek": 252,
+    "timeWeek": 236,
     "timeMonth": 208,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -327,7 +327,7 @@
     "uptimeYear": "99.95%",
     "time": 323,
     "timeDay": 281,
-    "timeWeek": 456,
+    "timeWeek": 448,
     "timeMonth": 358,
     "timeYear": 303,
     "dailyMinutesDown": {
