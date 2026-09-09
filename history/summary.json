@@ -14,7 +14,7 @@
     "timeDay": 703,
     "timeWeek": 898,
     "timeMonth": 860,
-    "timeYear": 891,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2025-09-29": 870,
       "2025-09-30": 741,
@@ -42,7 +42,7 @@
     "timeDay": 863,
     "timeWeek": 1017,
     "timeMonth": 989,
-    "timeYear": 917,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-12-10": 573,
       "2025-12-09": 23,
@@ -61,13 +61,13 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.17%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "96.53%",
     "time": 2859,
     "timeDay": 1286,
     "timeWeek": 1397,
-    "timeMonth": 5016,
-    "timeYear": 3323,
+    "timeMonth": 5228,
+    "timeYear": 3327,
     "dailyMinutesDown": {
       "2026-02-11": 511,
       "2026-02-12": 175,
@@ -185,7 +185,7 @@
     "timeDay": 603,
     "timeWeek": 714,
     "timeMonth": 702,
-    "timeYear": 751,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -203,7 +203,7 @@
     "timeDay": 547,
     "timeWeek": 482,
     "timeMonth": 510,
-    "timeYear": 489,
+    "timeYear": 490,
     "dailyMinutesDown": {}
   },
   {
@@ -211,17 +211,17 @@
     "url": "https://gitlab.manjaro.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.manjaro.org.ico",
     "slug": "manjaro-git-lab",
-    "status": "down",
-    "uptime": "98.82%",
-    "uptimeDay": "55.39%",
-    "uptimeWeek": "66.43%",
-    "uptimeMonth": "81.61%",
-    "uptimeYear": "96.12%",
-    "time": 5001,
-    "timeDay": 9166,
-    "timeWeek": 24195,
-    "timeMonth": 20066,
-    "timeYear": 6386,
+    "status": "up",
+    "uptime": "98.81%",
+    "uptimeDay": "37.57%",
+    "uptimeWeek": "64.81%",
+    "uptimeMonth": "80.99%",
+    "uptimeYear": "96.07%",
+    "time": 5002,
+    "timeDay": 6664,
+    "timeWeek": 22869,
+    "timeMonth": 19836,
+    "timeYear": 6387,
     "dailyMinutesDown": {
       "2026-05-01": 64,
       "2026-05-02": 262,
@@ -290,7 +290,7 @@
       "2026-09-07": 504,
       "2026-09-06": 324,
       "2026-09-08": 814,
-      "2026-09-09": 586
+      "2026-09-09": 859
     }
   },
   {
