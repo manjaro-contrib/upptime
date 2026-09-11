@@ -213,10 +213,10 @@
     "slug": "manjaro-git-lab",
     "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "80.14%",
-    "uptimeWeek": "68.99%",
-    "uptimeMonth": "80.62%",
-    "uptimeYear": "96.05%",
+    "uptimeDay": "72.16%",
+    "uptimeWeek": "67.85%",
+    "uptimeMonth": "80.35%",
+    "uptimeYear": "96.03%",
     "time": 5006,
     "timeDay": 1672,
     "timeWeek": 13682,
@@ -291,7 +291,7 @@
       "2026-09-08": 814,
       "2026-09-09": 859,
       "2026-09-10": 286,
-      "2026-09-11": 0
+      "2026-09-11": 115
     }
   },
   {
